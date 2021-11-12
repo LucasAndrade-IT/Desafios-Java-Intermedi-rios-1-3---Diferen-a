@@ -1,2 +1,2 @@
-# Desafios-Java-Intermedi-rios
+# Desafios-Java-Intermediarios
 
